@@ -30,7 +30,7 @@ Publish the website in the LocalHost.
 
 # PROGRAM:
 
-'''
+```
 book.html
 
 <html>
@@ -147,7 +147,7 @@ book.html
     </body>
 </html>
 
-'''
+```
 # OUTPUT:
 ![alt text](<cover/bookapp/static/Screenshot 2025-04-28 053437.png>)
 ![alt text](<cover/bookapp/static/Screenshot 2025-04-28 053455.png>)
